@@ -1,0 +1,1 @@
+###This set of routines were used to determine the supernova Ia rate by selecting from the mass distribution of white dwarf in the Galaxy. Extremely outdated but nonetheless amusing since most of this can be replaced by a few python lines.
